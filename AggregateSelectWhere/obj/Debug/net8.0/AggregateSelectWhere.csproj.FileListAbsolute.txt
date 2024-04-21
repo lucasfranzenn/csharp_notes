@@ -1,0 +1,15 @@
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\bin\Debug\net8.0\AggregateSelectWhere.exe
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\bin\Debug\net8.0\AggregateSelectWhere.deps.json
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\bin\Debug\net8.0\AggregateSelectWhere.runtimeconfig.json
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\bin\Debug\net8.0\AggregateSelectWhere.dll
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\bin\Debug\net8.0\AggregateSelectWhere.pdb
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.AssemblyInfoInputs.cache
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.AssemblyInfo.cs
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.csproj.CoreCompileInputs.cache
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.sourcelink.json
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.dll
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\refint\AggregateSelectWhere.dll
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.pdb
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\AggregateSelectWhere.genruntimeconfig.cache
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\AggregateSelectWhere\obj\Debug\net8.0\ref\AggregateSelectWhere.dll
