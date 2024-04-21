@@ -1,0 +1,14 @@
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\bin\Debug\net8.0\TestesUnitarios.exe
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\bin\Debug\net8.0\TestesUnitarios.deps.json
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\bin\Debug\net8.0\TestesUnitarios.runtimeconfig.json
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\bin\Debug\net8.0\TestesUnitarios.dll
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\bin\Debug\net8.0\TestesUnitarios.pdb
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.AssemblyInfoInputs.cache
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.AssemblyInfo.cs
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.dll
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\refint\TestesUnitarios.dll
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.pdb
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\TestesUnitarios.genruntimeconfig.cache
+C:\Users\lucas_tth2b5d\OneDrive\Área de Trabalho\Area de trabalho\Estudos\C# .NET\Anotações\TestesUnitarios\obj\Debug\net8.0\ref\TestesUnitarios.dll
