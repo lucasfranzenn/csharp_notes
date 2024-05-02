@@ -1,0 +1,15 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\bin\Debug\net8.0\XML Serialization.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\bin\Debug\net8.0\XML Serialization.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\bin\Debug\net8.0\XML Serialization.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\bin\Debug\net8.0\XML Serialization.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\bin\Debug\net8.0\XML Serialization.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\refint\XML Serialization.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\XML Serialization.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\XML Serialization\obj\Debug\net8.0\ref\XML Serialization.dll
