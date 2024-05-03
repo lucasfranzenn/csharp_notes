@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Using myDLL with System.Reflection/1.0.0": {
+        "runtime": {
+          "Using myDLL with System.Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Using myDLL with System.Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

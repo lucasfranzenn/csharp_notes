@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Using_my_first_DLL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="myFirstDLL">
+      <HintPath>..\myFirstDLL\bin\Debug\net8.0\myFirstDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

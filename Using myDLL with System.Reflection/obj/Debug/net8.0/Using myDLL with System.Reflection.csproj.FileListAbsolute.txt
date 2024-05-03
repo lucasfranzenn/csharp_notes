@@ -1,0 +1,15 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\bin\Debug\net8.0\Using myDLL with System.Reflection.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\bin\Debug\net8.0\Using myDLL with System.Reflection.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\bin\Debug\net8.0\Using myDLL with System.Reflection.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\bin\Debug\net8.0\Using myDLL with System.Reflection.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\bin\Debug\net8.0\Using myDLL with System.Reflection.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\refint\Using myDLL with System.Reflection.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\Using myDLL with System.Reflection.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using myDLL with System.Reflection\obj\Debug\net8.0\ref\Using myDLL with System.Reflection.dll

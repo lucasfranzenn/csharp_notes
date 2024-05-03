@@ -1,0 +1,19 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\Using my first DLL.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\Using my first DLL.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\Using my first DLL.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\Using my first DLL.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\Using my first DLL.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\myFirstDLL.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\bin\Debug\net8.0\myFirstDLL.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.csproj.AssemblyReference.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my.C930A775.Up2Date
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\refint\Using my first DLL.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\Using my first DLL.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Using my first DLL\obj\Debug\net8.0\ref\Using my first DLL.dll
