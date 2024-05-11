@@ -1,0 +1,17 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\bin\Debug\net8.0-windows\Mail Sender.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\bin\Debug\net8.0-windows\Mail Sender.deps.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\bin\Debug\net8.0-windows\Mail Sender.runtimeconfig.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\bin\Debug\net8.0-windows\Mail Sender.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\bin\Debug\net8.0-windows\Mail Sender.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail_Sender.Form1.resources
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.csproj.GenerateResource.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.AssemblyInfoInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.AssemblyInfo.cs
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.sourcelink.json
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\refint\Mail Sender.dll
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\Mail Sender.genruntimeconfig.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\Mail Sender\obj\Debug\net8.0-windows\ref\Mail Sender.dll
