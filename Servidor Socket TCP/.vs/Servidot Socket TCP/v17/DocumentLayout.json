@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Servidot Socket TCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F19548C1-10F6-424C-9E4E-246C002C5DF6}|Servidot Socket TCP.csproj|c:\\users\\franzen\\desktop\\area de trabalho\\estudos\\c# .net\\anota\u00E7\u00F5es\\servidot socket tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19548C1-10F6-424C-9E4E-246C002C5DF6}|Servidot Socket TCP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F45C07F-89D4-485D-94E8-8FD7CD6BEA5F}|..\\Cliente Socket TCP\\Cliente Socket TCP.csproj|c:\\users\\franzen\\desktop\\area de trabalho\\estudos\\c# .net\\anota\u00E7\u00F5es\\cliente socket tcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Cliente Socket TCP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Cliente Socket TCP\\Program.cs",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Cliente Socket TCP\\Program.cs",
+              "RelativeToolTip": "..\\Cliente Socket TCP\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:34:26.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Servidot Socket TCP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Servidot Socket TCP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:22:40.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

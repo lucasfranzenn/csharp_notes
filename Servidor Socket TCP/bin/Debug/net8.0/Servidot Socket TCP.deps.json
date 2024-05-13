@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Servidot Socket TCP/1.0.0": {
+        "runtime": {
+          "Servidot Socket TCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servidot Socket TCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

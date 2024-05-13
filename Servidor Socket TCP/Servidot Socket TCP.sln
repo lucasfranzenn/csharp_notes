@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidot Socket TCP", "Servidot Socket TCP.csproj", "{F19548C1-10F6-424C-9E4E-246C002C5DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente Socket TCP", "..\Cliente Socket TCP\Cliente Socket TCP.csproj", "{2F45C07F-89D4-485D-94E8-8FD7CD6BEA5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F19548C1-10F6-424C-9E4E-246C002C5DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19548C1-10F6-424C-9E4E-246C002C5DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19548C1-10F6-424C-9E4E-246C002C5DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19548C1-10F6-424C-9E4E-246C002C5DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F45C07F-89D4-485D-94E8-8FD7CD6BEA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F45C07F-89D4-485D-94E8-8FD7CD6BEA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F45C07F-89D4-485D-94E8-8FD7CD6BEA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F45C07F-89D4-485D-94E8-8FD7CD6BEA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9145B92-7BEF-4B08-88F2-EA5F46801E89}
+	EndGlobalSection
+EndGlobal
