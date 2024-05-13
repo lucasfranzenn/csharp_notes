@@ -1,0 +1,7 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\bin\Debug\PaginaWeb.exe.config
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\bin\Debug\PaginaWeb.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\bin\Debug\PaginaWeb.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\obj\Debug\PaginaWeb.csproj.AssemblyReference.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\obj\Debug\PaginaWeb.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\obj\Debug\PaginaWeb.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\PaginaWeb\obj\Debug\PaginaWeb.pdb
