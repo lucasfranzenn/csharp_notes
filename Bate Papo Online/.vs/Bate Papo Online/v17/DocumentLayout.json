@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|c:\\users\\franzen\\desktop\\area de trabalho\\estudos\\c# .net\\anota\u00E7\u00F5es\\bate papo online\\bate papo online.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|solutionrelative:bate papo online.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|c:\\users\\franzen\\desktop\\area de trabalho\\estudos\\c# .net\\anota\u00E7\u00F5es\\bate papo online\\frmbatepapo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|solutionrelative:frmbatepapo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmbatepapo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|solutionrelative:frmbatepapo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmbatepapo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D91A3AA8-911E-4708-8DFB-6DB419AF5DB5}|Bate Papo Online.csproj|solutionrelative:frmbatepapo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bate Papo Online",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\Bate Papo Online.csproj",
+              "RelativeDocumentMoniker": "Bate Papo Online.csproj",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\Bate Papo Online.csproj",
+              "RelativeToolTip": "Bate Papo Online.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T02:26:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:46:14.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBatePapo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmBatePapo.Designer.cs",
+              "RelativeDocumentMoniker": "frmBatePapo.Designer.cs",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmBatePapo.Designer.cs",
+              "RelativeToolTip": "frmBatePapo.Designer.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAQwK0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:43:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBatePapo.cs",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmBatePapo.cs",
+              "RelativeDocumentMoniker": "frmBatePapo.cs",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmBatePapo.cs",
+              "RelativeToolTip": "frmBatePapo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:42:15.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBatePapo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmBatePapo.cs",
+              "RelativeDocumentMoniker": "frmBatePapo.cs",
+              "ToolTip": "C:\\Users\\franzen\\Desktop\\Area de trabalho\\Estudos\\C# .NET\\Anota\u00E7\u00F5es\\Bate Papo Online\\frmBatePapo.cs [Design]",
+              "RelativeToolTip": "frmBatePapo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:29:06.489Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
