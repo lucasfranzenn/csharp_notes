@@ -1,0 +1,10 @@
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe.config
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.pdb
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My first windows service.csproj.AssemblyReference.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My_first_windows_service.ProjectInstaller.resources
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My_first_windows_service.Service1.resources
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My first windows service.csproj.GenerateResource.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My first windows service.csproj.CoreCompileInputs.cache
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My first windows service.exe
+C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\obj\Debug\My first windows service.pdb

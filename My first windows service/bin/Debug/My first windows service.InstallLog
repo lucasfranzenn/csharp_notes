@@ -1,0 +1,56 @@
+﻿Installing assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Uninstalling assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Uninstalling assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.exe
+   logfile = C:\Users\franzen\Desktop\Area de trabalho\Estudos\C# .NET\Anotações\My first windows service\bin\Debug\My first windows service.InstallLog
+Restoring event log to previous state for source Service1.

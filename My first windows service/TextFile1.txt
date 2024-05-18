@@ -1,0 +1,10 @@
+﻿To install a service use:
+
+path = @"c:\Windows\Microsoft.NET\Framework64\v4.0.30319\"
+
+path/InstallUtil.exe {servicepath/service.exe}
+
+To unistall the service:
+
+path/InstallUtil.exe /u {servicepath/service.exe}
+
